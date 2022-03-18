@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">GITHUB_USER</string>
+    <string name="user_not_found">user_not_found</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="progress_bar_message">progress bar message</string>
+    <string name="not_found_message">not found message</string>
+    <string name="find_username">Find username</string>
+    <string name="search">Search</string>
+    <string name="search_hint">cari</string>
+    <string name="username_not_found">Username Not Found</string>
+    <string name="hint_search">Search</string>
+    <string name="image_item">avatar_image</string>
+    <string name="avatar_image">avatar_image</string>
+    <string name="tab_text_1">Follower</string>
+    <string name="tab_text_2">Following</string>
+    <string name="user_details_information">user_details_information</string>
+    <string name="contents">contents</string>
+    <string name="colons">colons</string>
+    <string name="object_received">object_received</string>
+    <string name="userdetails">user details information</string>
+    <string name="usernamedetail">UsernameDetail</string>
+</resources>
